@@ -1,1 +1,1 @@
-# Epileptic-Seizure-Binary-Classification
+# Epileptic Seizure Binary Classification
